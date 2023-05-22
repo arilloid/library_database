@@ -12,8 +12,6 @@ adjustment.
 
 ## Data dictionary
 
-</br>
-
 #### Table : Author
 
 | Column    | Data Type | Size, precision | PK/FK | Required | Sample Data |
