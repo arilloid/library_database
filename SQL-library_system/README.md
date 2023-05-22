@@ -94,6 +94,8 @@ adjustment.
 | DateBorrowed | DATE      |                 |       | Y        | 1/10/2022   |
 | DateReturned | DATE      |                 |       | N        | 11/10/2022  |
 
+</br>
+
 ## The Views for the Business Reports
 
 - User Preference View:
