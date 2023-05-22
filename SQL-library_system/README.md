@@ -96,7 +96,7 @@ adjustment.
 
 </br>
 
-## The Views for the Business Reports
+## Views for the Business Reports
 
 - User Preference View:
 >	This view lists all the preferences/genres available in the library. It counts how many users prefer each genre. This will help the library understand which preference/genre is the most popular among users. Using this data, decisions on what books to carry, and how many copies should be ordered can be made. 
